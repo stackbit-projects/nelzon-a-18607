@@ -19,7 +19,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: none
-    background_image: /images/pexels-photoscom-93417.jpg
+    background_image: /images/pexels-pixabay-276514.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 40
