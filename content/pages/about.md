@@ -28,6 +28,16 @@ seo:
 layout: page
 title: ¿Quién es NELZON APAZA?
 ---
-![](/images/photo2.png)Suspendisse in arcu aliquet, convallis dui quis, egestas lectus. Nullam scelerisque venenatis erat ut sollicitudin. Suspendisse tristique odio eu tristique pharetra. Praesent cursus maximus porta. Nunc bibendum ipsum eu velit tincidunt, quis malesuada felis sollicitudin. In tristique laoreet fringilla. Duis varius tincidunt pharetra.
+![](/images/photo2.png)
 
-Curabitur eget orci in metus mattis maximus sit amet ut leo. Vestibulum a velit enim. Morbi semper lobortis nulla, non fermentum eros. Nulla luctus metus ac erat aliquet molestie. Nulla lectus sem, vehicula ut viverra at, fermentum sed enim. Curabitur magna nulla, efficitur a lorem a, rhoncus condimentum ex. Cras mi lacus, feugiat non mauris congue, rutrum iaculis metus. Nulla auctor pretium rhoncus. Donec sed nisl pretium, fermentum mi vel, faucibus augue. Vestibulum sed eros ultricies, dignissim erat quis, lobortis mauris. Sed porttitor varius felis, et auctor enim dictum in. Aenean rhoncus condimentum nunc ac mattis. Sed iaculis magna a mi sodales, ut ultricies mi malesuada.
+Llegue a este mundo en el año 2000 en la bella Ciudad de Puno, soy orgullosamente peruano de corazón. Actualmente, por el momento, vivo en la gran Ciudad de Arequipa.
+
+Desde un inicio, fui un alumno “Chanconcito”, es decir, siempre fui un alumno responsable y aplicado a sus estudios, por temor a las malas consecuencias que toda la sociedad en general te interpone.
+
+Estudié el primer y segundo año de la carrera profesional de Ingeniería Eléctrica, gracias a la **cuarentena** (covid-19), a mi familia, a mis amigos y amigas, descubrí muchas cosas de mí: habilidades, pasiones, etc. Los cuáles **cambiaron** mi manera de pensar y de vivir. En el año 2020 decidí cambiarme de carrera profesional.
+
+Actualmente **estudio** en la Escuela Profesional de Ciencia de la Computación de la Universidad Nacional de San Agustín de Arequipa.
+
+Aparte de ello, me encuentro trabajando en mi **canal** de YouTube dedicado a jóvenes estudiantes. Mi **propósito** es crear una comunidad donde comparta mis experiencias, las cosas que aprendí, conocimientos que algunos no comparten fácilmente, brindarte información verídica y útil en el tiempo. Y con esto, las personas que observan mis vídeos, no repitan necesariamente los mismos errores y consigan cosas mejores.
+
+En mis tiempos libres, juego videojuegos, descubro maravillas de mi país viajando a lugares nuevos, trabajo en mis proyectos personales y también ayudo en proyectos grupales, veo y edito vídeos, audios, realizo ejercicios de relajamiento, escucho podcast, me pongo a cantar y conozco nuevas personas.
