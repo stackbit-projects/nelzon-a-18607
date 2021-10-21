@@ -45,7 +45,8 @@
             {
                 "label": "Episodes",
                 "url": "/episodes",
-                "style": "link"
+                "style": "link",
+                "has_icon": true
             },
             {
                 "label": "Subscribe",
