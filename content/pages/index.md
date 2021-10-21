@@ -13,7 +13,7 @@ sections:
         style: primary
     image: /images/LOGO_Nelzon_Apaza.png
     image_alt: Hero section placeholder image
-    media_position: bottom
+    media_position: left
     media_width: fifty
     align: left
     padding_top: large
