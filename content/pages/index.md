@@ -3,9 +3,8 @@ title: Home
 sections:
   - type: hero_section
     title: NELZON APAZA
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+    content: |
+      Amante de la programación, creador de contenido y un amigo para todos.
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
