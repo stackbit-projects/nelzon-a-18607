@@ -24,7 +24,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 40
     has_border: true
-    background_image_position: left top
+    background_image_position: right top
   - type: blog_feed_section
     title: Latest Episodes
     blog_feed_cols: three
