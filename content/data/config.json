@@ -53,7 +53,8 @@
             {
                 "label": "Subscribe",
                 "url": "/subscribe",
-                "style": "link"
+                "style": "link",
+                "icon_position": "right"
             },
             {
                 "label": "Advertising",
