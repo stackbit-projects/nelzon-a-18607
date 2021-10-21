@@ -26,7 +26,7 @@ seo:
       value: images/about.png
       relativeUrl: true
 layout: page
-title: '-¿Quién es NELZON APAZA?'
+title: '-¿Quién es NELZON APAZA?-'
 ---
 ![](/images/photo2.png)Suspendisse in arcu aliquet, convallis dui quis, egestas lectus. Nullam scelerisque venenatis erat ut sollicitudin. Suspendisse tristique odio eu tristique pharetra. Praesent cursus maximus porta. Nunc bibendum ipsum eu velit tincidunt, quis malesuada felis sollicitudin. In tristique laoreet fringilla. Duis varius tincidunt pharetra.
 
