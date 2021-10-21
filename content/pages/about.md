@@ -34,7 +34,7 @@ Llegue a este mundo en la década de los 2000 en la bella Ciudad de Puno, soy or
 
 Desde un inicio, fui un alumno “Chanconcito”, es decir, siempre fui un alumno responsable y aplicado a sus estudios, por temor a las malas consecuencias que toda la sociedad en general te interpone.
 
-Estudié el primer y segundo año de la carrera profesional de Ingeniería Eléctrica, gracias a la **cuarentena** (covid-19), a mi familia, a mis amigos y amigas, descubrí muchas cosas de mí: habilidades, pasiones, etc. Los cuáles **cambiaron** mi manera de pensar y de vivir. En el año 2020 decidí cambiarme de carrera profesional.
+Estudié el primer y segundo año de la carrera profesional de Ingeniería Eléctrica, gracias a la **cuarentena** (covid-19), a mi familia, mis amigos y amigas, descubrí muchas cosas de mí: habilidades, pasiones, etc. Los cuáles **cambiaron** mi manera de pensar y de vivir. En el año 2020 decidí cambiarme de carrera profesional.
 
 Actualmente **estudio** en la Escuela Profesional de Ciencia de la Computación de la Universidad Nacional de San Agustín de Arequipa.
 
