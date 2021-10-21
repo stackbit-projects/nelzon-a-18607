@@ -17,7 +17,7 @@ sections:
     media_width: fifty
     align: left
     padding_top: large
-    padding_bottom: large
+    padding_bottom: medium
     background_color: none
     background_image: /images/pexels-pixabay-276514.jpg
     background_image_repeat: no-repeat
