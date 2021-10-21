@@ -59,7 +59,8 @@
             {
                 "label": "Advertising",
                 "url": "/advertising",
-                "style": "link"
+                "style": "link",
+                "icon_position": "right"
             }
         ],
         "has_secondary_nav": true,
