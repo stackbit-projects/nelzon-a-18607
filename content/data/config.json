@@ -47,7 +47,7 @@
                 "url": "/episodes",
                 "style": "link",
                 "has_icon": false,
-                "icon": "youtube",
+                "icon": "arrow-left",
                 "icon_position": "right"
             },
             {
