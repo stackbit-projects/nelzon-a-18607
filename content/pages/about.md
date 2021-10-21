@@ -40,4 +40,4 @@ Actualmente **estudio** en la Escuela Profesional de Ciencia de la Computació
 
 Aparte de ello, me encuentro trabajando en mi **canal** de YouTube dedicado a jóvenes estudiantes. Mi **propósito** es crear una comunidad donde comparta mis experiencias, las cosas que aprendí, conocimientos que algunos no comparten fácilmente, brindarte información verídica y útil en el tiempo. Y con esto, las personas que observan mis vídeos, no repitan necesariamente los mismos errores que yo cometí y consigan mejores cosas en su vida.
 
-En mis tiempos libres, juego videojuegos, descubro maravillas de mi país viajando a lugares nuevos, trabajo en mis proyectos personales y también ayudo en proyectos grupales, veo y edito vídeos, audios, realizo ejercicios de relajamiento, escucho podcast, me pongo a cantar y conozco nuevas personas.
+En mis tiempos libres, juego videojuegos, descubro maravillas de mi país viajando a lugares nuevos. Trabajo en mis proyectos personales y también me gusta ayudar en otros proyectos grupales. Además de ello, me gusta crear, obersar y editar vídeos. Realizo ejercicios de relajamiento, escucho podcast, me pongo a cantar y conozco nuevas personas.
