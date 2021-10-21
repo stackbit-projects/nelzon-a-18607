@@ -22,7 +22,7 @@ sections:
     background_image: /images/pexels-pixabay-276514.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image_opacity: 20
+    background_image_opacity: 0
     has_border: true
   - type: blog_feed_section
     title: Latest Episodes
