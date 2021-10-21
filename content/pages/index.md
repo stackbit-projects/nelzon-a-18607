@@ -11,7 +11,7 @@ sections:
         style: primary
     image: /images/LOGO_Nelzon_Apaza.png
     image_alt: Logo
-    media_position: bottom
+    media_position: top
     media_width: sixty
     align: left
     padding_top: large
