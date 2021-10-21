@@ -36,7 +36,7 @@ Desde un inicio, fui un alumno “Chanconcito”, es decir, siempre fui un alumn
 
 Estudié el primer y segundo año de la carrera profesional de Ingeniería Eléctrica. Gracias a la **cuarentena** (covid-19), a mi familia, mis amigos y amigas. Descubrí muchas cosas de mí: habilidades, pasiones, etc. Los cuáles **cambiaron** mi manera de pensar y de vivir. Cerca del año 2020 decidí cambiarme de carrera profesional.
 
-Actualmente **estudio** en la Escuela Profesional de Ciencia de la Computación de la Universidad Nacional de San Agustín de Arequipa.
+Actualmente **estudio** en la Escuela Profesional de Ciencia de la Computación en la Universidad Nacional de San Agustín de Arequipa.
 
 Aparte de ello, me encuentro trabajando en mi **canal** de YouTube dedicado a jóvenes estudiantes. Mi **propósito** es crear una comunidad donde comparta mis experiencias, las cosas que aprendí, conocimientos que algunos no comparten fácilmente, brindarte información verídica y útil en el tiempo. Y con esto, las personas que observan mis vídeos, no repitan necesariamente los mismos errores que yo cometí y consigan mejores cosas en su vida.
 
