@@ -12,7 +12,7 @@ sections:
         url: /thank-you
         style: primary
     image: /images/LOGO_Nelzon_Apaza.png
-    image_alt: Hero section placeholder image
+    image_alt: Logo
     media_position: left
     media_width: sixty
     align: left
