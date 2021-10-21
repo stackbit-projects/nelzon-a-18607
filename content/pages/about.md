@@ -26,7 +26,7 @@ seo:
       value: images/about.png
       relativeUrl: true
 layout: page
-title: ¿Quién es NELZON APAZA?
+title: 'ACERCA DE MI:'
 ---
 ![](/images/photo2.png)
 
