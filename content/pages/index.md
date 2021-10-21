@@ -11,7 +11,7 @@ sections:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
-    image: /images/IMG_20210826_173655-01-01.jpeg
+    image: /images/LOGO_Nelzon_Apaza.png
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
