@@ -26,7 +26,7 @@ seo:
       value: images/about.png
       relativeUrl: true
 layout: page
-title: SOY NELZON APAZA
+title: 'SOY NELZON APAZA:'
 ---
 ![](/images/photo2.png)
 
