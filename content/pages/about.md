@@ -30,7 +30,7 @@ title: 'SOY NELZON APAZA:'
 ---
 ![](/images/photo2.png)
 
-<!-- \*Llegue a este mundo en la década de los 2000 en la bella Ciudad de Puno, soy orgullosamente peruano de corazón.
+<!--Llegue a este mundo en la década de los 2000 en la bella Ciudad de Puno, soy orgullosamente peruano de corazón.
 
 Desde un inicio, fui un alumno “Chanconcito”, es decir, siempre fui un alumno responsable y aplicado a sus estudios, por temor a las malas consecuencias que toda la sociedad en general te interpone.
 
