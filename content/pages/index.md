@@ -5,8 +5,10 @@ sections:
     title: NELZON APAZA
     content: >
       Amante de la programación, creador de contenido y un amigo para todos.
-      Hola espero que te encuentres bien. Actualmente esta página web esta en
-      proceso. Disculpa las molestias.
+
+
+      **Hola espero que te encuentres bien. Actualmente esta página web esta en
+      proceso. Disculpa las molestias.**
     actions:
       - label: ...
         url: /thank-you
