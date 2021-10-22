@@ -122,5 +122,6 @@
         "anncmnt_has_close": true,
         "anncmnt_id": "new-episode"
     },
-    "domain": "nelzonapaza.com"
+    "domain": "nelzonapaza.com",
+    "favicon": "/images/LOGO_Nelzon_Apaza-49c798c9.png"
 }
