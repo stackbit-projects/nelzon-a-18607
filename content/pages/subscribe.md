@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Subscribe
 sections:
   - type: hero_section
@@ -96,4 +96,4 @@ seo:
       value: images/about.png
       relativeUrl: true
 layout: advanced
----
+--- -->
