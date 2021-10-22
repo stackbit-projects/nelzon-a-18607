@@ -77,6 +77,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        image: /images/pngwing.com (95).png
       - title: ...
         title_align: center
         content_align: center
