@@ -113,7 +113,7 @@ sections:
     subtitle: Working
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: /images/pngwing.com (85).png
         image_alt: Stackbit logo
         image_align: center
       - image: images/logo-2.svg
