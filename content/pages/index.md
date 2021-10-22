@@ -176,7 +176,7 @@ sections:
     background_image_opacity: 98
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ...
     features: []
     feature_padding_vert: medium
     align: center
