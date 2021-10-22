@@ -175,7 +175,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - section_id: lorem-ipsum
-    title: lorem-ipsum
+    title: Trabajando en ello
     subtitle: ...
     features: []
     feature_padding_vert: medium
