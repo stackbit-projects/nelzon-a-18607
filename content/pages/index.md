@@ -22,6 +22,7 @@ sections:
     background_image_opacity: 40
     has_border: true
     background_image_position: center top
+    background_image: /images/pexels-pixabay-276514.jpg
   - type: blog_feed_section
     title: Latest Episodes
     blog_feed_cols: three
