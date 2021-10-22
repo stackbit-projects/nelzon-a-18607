@@ -34,7 +34,8 @@
                 "url": "/subscribe",
                 "style": "primary"
             }
-        ]
+        ],
+        "title": "NelzonApaza"
     },
     "footer": {
         "logo": "/images/Logo3_name.png",
