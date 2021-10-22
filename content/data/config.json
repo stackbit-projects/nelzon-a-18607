@@ -51,7 +51,7 @@
                 "icon_position": "right"
             },
             {
-                "label": "Subscribe",
+                "label": "...",
                 "url": "/subscribe",
                 "style": "link",
                 "icon_position": "right"
