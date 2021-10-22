@@ -6,7 +6,7 @@ sections:
     content: |
       Amante de la programación, creador de contenido y un amigo para todos.
     actions:
-      - label: Suscríbete a mi canal
+      - label: ...
         url: /thank-you
         style: primary
     image: /images/LOGO_Nelzon_Apaza.png
