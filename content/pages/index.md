@@ -50,7 +50,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: CA
+          - label: CAction
             url: /thank-you
             style: secondary
             has_icon: true
