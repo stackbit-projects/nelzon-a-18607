@@ -46,7 +46,7 @@ sections:
   - type: grid_section
     title: Trabajo en proceso
     grid_items:
-      - title: Apple Podcasts
+      - title: ...
         title_align: center
         content_align: center
         actions:
