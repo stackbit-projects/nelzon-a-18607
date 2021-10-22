@@ -28,7 +28,6 @@ seo:
 layout: page
 title: 'SOY NELZON APAZA:'
 ---
-![](/images/photo2.png)
 
 In process
 
