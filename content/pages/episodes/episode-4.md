@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Episode 4 - Cur Ipse Pythagoras Et Aegyptum Lustravit
 subtitle: >-
   Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam equidem satis, inquit, me dixisse.
@@ -48,4 +48,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Teneo, inquit, finem il
 - Quid, quod homines infima fortuna, nulla spe rerum gerendarum, opifices denique delectantur historia?
 - Quo minus animus a se ipse dissidens secumque discordans gustare partem ullam liquidae voluptatis et liberae potest.
 
-**Quippe: habes enim a rhetoribus;** Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere. Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali. Sic consequentibus vestris sublatis prima tolluntur. Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est.
+**Quippe: habes enim a rhetoribus;** Vos autem cum perspicuis dubia debeatis illustrare, dubiis perspicua conamini tollere. Hoc dixerit potius Ennius: Nimium boni est, cui nihil est mali. Sic consequentibus vestris sublatis prima tolluntur. Negat esse eam, inquit, propter se expetendam. Ergo, si semel tristior effectus est, hilara vita amissa est. -->
