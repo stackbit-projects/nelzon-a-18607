@@ -3,12 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: NELZON APAZA
-    content: >
-      Amante de la programación, creador de contenido y un amigo para todos.
-
-
-      **Hola espero que te encuentres bien. Actualmente esta página web esta en
-      proceso. Disculpe las molestias.**
+    content: "**Hola!!\U0001F604 espero que te encuentres bien. Actualmente esta página web esta en proceso. Disculpe las molestias.**\n"
     actions:
       - label: ...
         url: /thank-you
