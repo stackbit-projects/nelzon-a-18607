@@ -7,7 +7,6 @@
     "mode": "dark",
     "base_font": "sans-serif",
     "header": {
-        "title": "Podcaster",
         "logo": "/images/Nombre_Imagen_Nel.PNG",
         "logo_alt": "Podcaster logo",
         "has_primary_nav": true,
