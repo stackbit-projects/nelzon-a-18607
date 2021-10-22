@@ -8,7 +8,7 @@ sections:
 
 
       **Hola espero que te encuentres bien. Actualmente esta página web esta en
-      proceso. Disculpa las molestias.**
+      proceso. Disculpe las molestias.**
     actions:
       - label: ...
         url: /thank-you
