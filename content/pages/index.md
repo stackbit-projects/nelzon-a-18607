@@ -24,7 +24,7 @@ sections:
     background_image_position: center top
     background_image: /images/pexels-pixabay-276514.jpg
   - type: blog_feed_section
-    title: Latest Episodes
+    title: Página en proceso
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
