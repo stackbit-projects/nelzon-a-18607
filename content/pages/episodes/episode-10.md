@@ -6,7 +6,7 @@ subtitle: >-
 date: '2021-05-12'
 categories:
   - content/data/categories/season-2.yaml
-thumb_image: images/post-10.jpg
+thumb_image: /images/pngwing.com (48).png
 thumb_image_alt: Episode 10 placeholder image
 image: images/post-10.jpg
 image_alt: Episode 10 placeholder image
