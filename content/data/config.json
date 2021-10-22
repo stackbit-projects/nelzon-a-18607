@@ -116,7 +116,7 @@
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Página en proceso. [**Learn More**](/pricing/)\n",
+        "anncmnt_content": "Página en proceso.\n",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
