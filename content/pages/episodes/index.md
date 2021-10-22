@@ -3,7 +3,7 @@ title: Episodes
 sections:
   - type: hero_section
     title: En proceso
-    subtitle: List of episodes in order
+    subtitle: ...
     align: center
     padding_top: medium
     padding_bottom: small
