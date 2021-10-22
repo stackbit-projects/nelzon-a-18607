@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Episode 1 - Utrum Igitur Tibi Litteram Videor An Totas Paginas
 subtitle: >-
   Atqui pugnantibus et contrariis studiis consiliisque semper utens nihil quieti videre, nihil tranquilli potest.
@@ -53,4 +53,4 @@ Est enim tanti philosophi tamque nobilis audacter sua decreta defendere. Sed eum
 Expressa vero in iis aetatibus, quae iam confirmatae sunt.
 Ne amores quidem sanctos a sapiente alienos esse arbitrantur. Quid enim de amicitia statueris utilitatis causa expetenda vides. Nihil acciderat ei, quod nollet, nisi quod anulum, quo delectabatur, in mari abiecerat. Quid enim possumus hoc agere divinius? Dic in quovis conventu te omnia facere, ne doleas. Omnes enim iucundum motum, quo sensus hilaretur. Hoc loco discipulos quaerere videtur, ut, qui asoti esse velint, philosophi ante fiant. Hoc loco tenere se Triarius non potuit. Nunc haec primum fortasse audientis servire debemus. Sin dicit obscurari quaedam nec apparere, quia valde parva sint, nos quoque concedimus; Isto modo ne improbos quidem, si essent boni viri. Quid censes in Latino fore?
 
-Quae diligentissime contra Aristonem dicuntur a Chryippo. Huius ego nunc auctoritatem sequens idem faciam. Quare obscurentur etiam haec, quae secundum naturam esse dicimus, in vita beata; Ad corpus diceres pertinere-, sed ea, quae dixi, ad corpusne refers? Huius, Lyco, oratione locuples, rebus ipsis ielunior. Aliter homines, aliter philosophos loqui putas oportere? Qui autem esse poteris, nisi te amor ipse ceperit? Aliter autem vobis placet. Compensabatur, inquit, cum summis doloribus laetitia.
+Quae diligentissime contra Aristonem dicuntur a Chryippo. Huius ego nunc auctoritatem sequens idem faciam. Quare obscurentur etiam haec, quae secundum naturam esse dicimus, in vita beata; Ad corpus diceres pertinere-, sed ea, quae dixi, ad corpusne refers? Huius, Lyco, oratione locuples, rebus ipsis ielunior. Aliter homines, aliter philosophos loqui putas oportere? Qui autem esse poteris, nisi te amor ipse ceperit? Aliter autem vobis placet. Compensabatur, inquit, cum summis doloribus laetitia. -->
