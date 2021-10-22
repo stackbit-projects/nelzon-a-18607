@@ -189,7 +189,7 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
 seo:
-  title: Stackbit Podcaster Theme
+  title: NelzonApaza
   description: The preview of the Podcaster theme
   extra:
     - name: 'og:type'
